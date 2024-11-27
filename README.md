@@ -26,7 +26,9 @@ O Socket.IO é uma biblioteca construída sobre WebSockets, usada para comunica�
 npm install socket.io
 ```
 
+<br>
 O Socket.IO é amplamente usado por ser fácil de integrar com o Node.js e por garantir robustez e flexibilidade em diversas condições de rede.
+<br>
 
 <hr>
 
